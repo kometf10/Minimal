@@ -1,0 +1,56 @@
+[INF] 2024-11-18 23:23:52.518 +04:00   User profile is available. Using 'C:\Users\komet\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:23:52.857 +04:00   Now listening on: https://localhost:7180
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:23:52.857 +04:00   Now listening on: http://localhost:5161
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:23:52.859 +04:00   Application started. Press Ctrl+C to shut down.
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:23:52.859 +04:00   Hosting environment: Development
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:23:52.859 +04:00   Content root path: D:\Projects\.NET Tests\Minimal API\MinmalAPITest
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.558 +04:00   Request starting HTTP/2 GET https://localhost:7180/swagger/index.html - null null
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.667 +04:00   Request finished HTTP/2 GET https://localhost:7180/swagger/index.html - 200 null text/html;charset=utf-8 112.1777ms
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.712 +04:00   Request starting HTTP/2 GET https://localhost:7180/_framework/aspnetcore-browser-refresh.js - null null
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.716 +04:00   Request finished HTTP/2 GET https://localhost:7180/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3866ms
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.772 +04:00   Request starting HTTP/2 GET https://localhost:7180/_vs/browserLink - null null
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.798 +04:00   Request finished HTTP/2 GET https://localhost:7180/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.9776ms
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.927 +04:00   Request starting HTTP/2 GET https://localhost:7180/swagger/v1/swagger.json - null null
+
+ --------------------------------- 
+
+[INF] 2024-11-18 23:24:08.977 +04:00   Request finished HTTP/2 GET https://localhost:7180/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.1912ms
+
+ --------------------------------- 
+

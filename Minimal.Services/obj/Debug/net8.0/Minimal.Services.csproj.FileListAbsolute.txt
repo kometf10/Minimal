@@ -1,0 +1,17 @@
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.Services.deps.json
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.Services.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.Services.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.DataAccess.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.Domain.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.DataAccess.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\bin\Debug\net8.0\Minimal.Domain.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.csproj.AssemblyReference.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.AssemblyInfoInputs.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.AssemblyInfo.cs
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.csproj.CopyComplete
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\refint\Minimal.Services.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\Minimal.Services.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.Services\obj\Debug\net8.0\ref\Minimal.Services.dll

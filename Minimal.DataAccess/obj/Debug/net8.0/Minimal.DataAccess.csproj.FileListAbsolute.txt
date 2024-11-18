@@ -1,0 +1,17 @@
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\bin\Debug\net8.0\Minimal.DataAccess.deps.json
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\bin\Debug\net8.0\Minimal.DataAccess.runtimeconfig.json
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\bin\Debug\net8.0\Minimal.DataAccess.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\bin\Debug\net8.0\Minimal.DataAccess.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\bin\Debug\net8.0\Minimal.Domain.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\bin\Debug\net8.0\Minimal.Domain.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.AssemblyInfo.cs
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.csproj.CopyComplete
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\refint\Minimal.DataAccess.dll
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.pdb
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\Minimal.DataAccess.genruntimeconfig.cache
+D:\Projects\.NET Tests\Minimal API\Minimal.DataAccess\obj\Debug\net8.0\ref\Minimal.DataAccess.dll
